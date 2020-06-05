@@ -18,3 +18,5 @@ This repo is where the instructional staff will push class activities and resour
 * Each unit has its own directory
 * Inside each unit directory each day has its own directory
 * Inside each day are any relevant slidedecks, resources, activities and homework solutions
+
+## This is a test change!
